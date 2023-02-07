@@ -1,0 +1,7 @@
+data_here segment
+	block DB 12h,56h,02h,21h,45h
+	result DW ?
+data_here ends
+
+code_here segment
+	Assume cs:code_here,ds:data_here

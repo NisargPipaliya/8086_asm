@@ -1,0 +1,13 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0000FH 00010H DATA               
+ 00010H 00015H 00006H DATA2              
+ 00020H 000E7H 000C8H STACK_SEG          
+ 000F0H 000F0H 00000H PRODECURE          
+ 000F0H 000F7H 00008H PRODECURE          
+ 000F8H 0012CH 00035H CODE               
+
+Program entry point at 000F:0008
+Warning: No stack
+
