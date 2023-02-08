@@ -13,6 +13,7 @@ my_stack ends
      ; int 21h
     ;endm
     ;can print message from macro too.
+    
 code segment 
     assume cs:code,ds:data,ss:my_stack
 start: 
