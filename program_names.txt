@@ -1,0 +1,14 @@
+ind_find -> searching for given character in given string
+cmps -> compare string using string instruction
+rcop -> copying the string using scan string instruction
+hex_td -> data conversion from hex to decimal
+exn -> exchanging bytes / swapping lower and upper bytes of a number -> similar to swapping nibbles
+sepn -> separating nibbles from given number
+sam -> counting simpilar number of bits in given numbers
+eqb -> counting number of ones(in binary) in given hex number
+
+#procedure related programs
+proc115 -> printing message using procedure
+fact1 ->  finding factorial of number using recursive procedure
+proc -> counting number of ones  -> using procedure -> it uses two files proc and pro1 as the procedure defined inside proc is called in pro1
+bin115-> converting bcd number to binary(actually decimal of the obtained binary) using procedure
