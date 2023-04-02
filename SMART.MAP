@@ -1,0 +1,15 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00000H 00000H DATA               
+ 00000H 00005H 00006H DATA               
+ 00010H 0002FH 00020H PROCEDURES         
+ 00030H 00035H 00006H DATA2              
+ 00040H 0008FH 00050H STACK_HERE         
+ 00090H 00090H 00000H PROCEDURE          
+ 00090H 000C1H 00032H CODE               
+
+Error: Undefined symbol SMART_DIVISOR in module DIVIDE.ASM
+Program entry point at 0009:0000
+Warning: No stack
+

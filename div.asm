@@ -1,3 +1,4 @@
+;exp 10 in journal
 data segment word public
     dividend dw 1111h,1111h
     divisor  dw 0000h

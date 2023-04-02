@@ -5,9 +5,9 @@
  00010H 00015H 00006H DATA2              
  00020H 000E7H 000C8H STACK_SEG          
  000F0H 000F0H 00000H PRODECURE          
- 000F0H 000F7H 00008H PRODECURE          
- 000F8H 0012CH 00035H CODE               
+ 000F0H 0010FH 00020H PRODECURE          
+ 00110H 00144H 00035H CODE               
 
-Program entry point at 000F:0008
+Program entry point at 0011:0000
 Warning: No stack
 

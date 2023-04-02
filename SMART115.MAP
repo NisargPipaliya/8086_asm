@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00000H 00000H DATA               
+ 00000H 0001FH 00020H PRODECURE          
+
+Error: Undefined symbol DIVISOR in module SMART115.ASM
+Program entry point at 0000:0000
+Warning: No stack
+
