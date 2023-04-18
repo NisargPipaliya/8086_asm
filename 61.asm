@@ -35,7 +35,7 @@ next:
     jz skip
 
     sub al,'a'
-    xat
+    xlat
     mov byte ptr[si],al
 skip:loop next
     inc si
